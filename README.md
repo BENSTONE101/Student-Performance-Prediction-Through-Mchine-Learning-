@@ -1,7 +1,8 @@
 # 🎓 Student Performance Prediction Through Machine Learning
 
 > A machine learning project that analyzes student academic and demographic information to predict whether a student is likely to **Pass or Fail**.
-Benstone101 on discord or X (twitter) for help
+
+## Benstone101 on discord or X (twitter) for help
 
 ## 📌 Project Overview
 
